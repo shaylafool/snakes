@@ -5,7 +5,7 @@
 
 # INFORMACION
 - esto solo funcionara al generalo, 
-- https://platane.me/snk/
+- https://github.com/platane
 - con el name url de usuario de github, descagamos el svg.
 - ya descargado , creamos un repositorio solo para ese badget
 - y pegamos este link en nuestro readme
